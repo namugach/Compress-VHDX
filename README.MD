@@ -10,16 +10,16 @@
 
 ## 설치 및 사용 방법
 
-1. 'Compress-VHDX.ps1'과 'Run-Compress-VHDX.bat' 파일을 같은 폴더에 다운로드합니다.
+1. git clone https://github.com/namugach/Compress-VHDX.git
 
-2. 'Run-Compress-VHDX.bat' 파일 실행 (두 가지 방법):
+2. 'Compress-VHDX.bat' 파일 실행 (두 가지 방법):
 
 방법 1: 일반 실행
-- 'Run-Compress-VHDX.bat' 파일을 더블클릭합니다.
+- 'Compress-VHDX.bat' 파일을 더블클릭합니다.
 - PowerShell이 관리자 권한을 요청하면 '예'를 클릭합니다.
 
 방법 2: 직접 관리자 권한으로 실행
-- 'Run-Compress-VHDX.bat' 파일을 우클릭하고 "관리자 권한으로 실행"을 선택합니다.
+- 'Compress-VHDX.bat' 파일을 우클릭하고 "관리자 권한으로 실행"을 선택합니다.
 
 3. VHDX 파일 선택:
 - 기본 Ubuntu VHDX 파일을 사용하려면 엔터를 누릅니다.
